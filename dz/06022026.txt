@@ -1,0 +1,20 @@
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Statements/if...else
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Statements/while
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Guide/Expressions_and_operators
+
+Прочтите о конструкциях if else
+о цикле while
+и об операторах
+
+Попрактикуйтесь в использовании if else
+например:
+let userName;
+const age = 20 + 10
+userName = prompt('Введите имя')
+while(userName == '' || userName == undefined ){
+    console.log('Введите имя!')
+    userName = prompt('Введите имя')
+    if(userName != '' && userName != undefined){
+        console.log('ПРивет! '+ userName +" тебе "+ age +" лет")
+    }
+}
