@@ -1,0 +1,7 @@
+В нашем репозитории https://github.com/Kondusov/diz-251
+Найдите файл for.js и array.js рассмотрите их.
+И напишите цикл for, используя массив, выведите в каждой итерации
+цикла - элемент массива.
+Прочесть о цикле for и о массивах, можно здесь:
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Statements/for
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array
