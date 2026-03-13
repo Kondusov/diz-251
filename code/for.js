@@ -1,3 +1,4 @@
+// https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Statements/for
 let day = prompt('Введите номер дгя недели');
 // let day = 5;
 let arr_week = ['понедельник','вторник','среда','четверг','пятница','суббота','воскресенье'];

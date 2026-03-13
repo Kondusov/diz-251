@@ -1,3 +1,5 @@
+// https://developer.mozilla.org/ru/docs/Web/JavaScript/Guide/Grammar_and_types
+
 a = 5
 b = 3
 if(a<0 || b<0){

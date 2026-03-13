@@ -1,3 +1,4 @@
+// https://developer.mozilla.org/ru/docs/Web/JavaScript/Guide/Functions
 function summ(a,b){
     return a+b;
 }

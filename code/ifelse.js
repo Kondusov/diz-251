@@ -1,3 +1,4 @@
+// https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Statements/if...else
 let userName = 'Ivan';
 if(userName == ''){
     console.log('Введите имя');
