@@ -5,3 +5,4 @@
 
 Используйте цикл while
 https://doka.guide/js/while/
+Язык сценариев Javascript и библиотека jQuery
