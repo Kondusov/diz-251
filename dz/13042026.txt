@@ -1,0 +1,8 @@
+Прочтите о булевом типе данных и неявном приведение к булеву типу.
+(используйте для if else или циклов)
+https://doka.guide/js/boolean/
+
+Попрактикуйтесь в использовании многомерных и ассоциативных массивов(в js это объекты).
+https://sky.pro/wiki/javascript/mnogomernye-massivy-v-javascript/
+https://doka.guide/js/object/
+

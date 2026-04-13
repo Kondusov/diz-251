@@ -11,9 +11,11 @@ console.log(result3);
 
 function hello_ovner(){
     let privet;
-    var_hello =['Доброе утро','Добрый день','Добрый вечер']
+    var_hello =['Доброе утро','Добрый день','Добрый вечер'];
     user_name = prompt('Введите имя');
     date = new Date();
+    console.log(date);
+    console.log(date.getHours());
     hour = date.getHours();
     if(hour>= 6 && hour<=11){
         privet = var_hello[0];
